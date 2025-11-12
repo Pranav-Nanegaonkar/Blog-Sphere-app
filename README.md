@@ -1,4 +1,4 @@
-# 📝 BlogyTechApp
+# 📝 BlogSphere
 
 🔗 **Project Repository:** [BlogyTechApp](https://github.com/Pranav-Nanegaonkar/BlogyTechApp)
 
