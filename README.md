@@ -1,6 +1,6 @@
 # 📝 BlogSphere
 
-🔗 **Project Repository:** [BlogyTechApp](https://github.com/Pranav-Nanegaonkar/BlogyTechApp)
+🔗 **Project Repository:** [BlogyTechApp](https://github.com/Pranav-Nanegaonkar/Blog-Sphere-app)
 
 Welcome to **BlogyTechApp** — an **industry-standard**, feature-rich blogging platform backend built with robust and scalable technologies. 🚀  
 This project is under active development and aims to power modern content-sharing applications with features found in real-world production apps.
